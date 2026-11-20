@@ -473,7 +473,7 @@ The exact requirements depend on which features you want to run.
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Shrijeshkc2006/TestSphere
 ```
 
 Navigate into the project:
